@@ -1,2 +1,2 @@
 # mosh-react-app-tutorial
-react tutorial
+list of buttons
